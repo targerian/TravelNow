@@ -4,6 +4,7 @@
   column-gap: 10%;
   padding: 26px 52px 52px;
   box-sizing: border-box;
+  font-family: "Nunito", sans-serif !important;
 }
 a,
 a:hover {
